@@ -21,7 +21,7 @@ Adaptive immunity can also be divided by the type of immune mediators involved; 
 
 Maternal passive immunity is a type of naturally acquired passive immunity, and refers to antibody-mediated immunity conveyed to a fetus by its mother during pregnancy. Maternal antibodies (MatAb) are passed through the placenta to the fetus by an FcRn receptor on placental cells. This occurs around the third month of gestation. IgG is the only antibody isotype that can pass through the placenta. Passive immunity is also provided through the transfer of IgA antibodies found in breast milk that are transferred to the gut of the infant, protecting against bacterial infections, until the newborn can synthesize its antibodies. Colostrum present in mothers milk is an example of passive immunity.
 
-###**Artificially acquired passive immunity**
+### **Artificially acquired passive immunity**
 
 Artificially acquired passive immunity is a short-term immunization induced by the transfer of antibodies, which can be administered in several forms; as human or animal blood plasma, as pooled human immunoglobulin for intravenous (IVIG) or intramuscular (IG) use, and in the form of monoclonal antibodies (MAb). Passive transfer is used prophylactically in the case of immunodeficiency diseases, such as hypogammaglobulinemia.[11] It is also used in the treatment of several types of acute infection, and to treat poisoning.[9] Immunity derived from passive immunization lasts for only a short period of time, and there is also a potential risk for hypersensitivity reactions, and serum sickness, especially from gamma globulin of non-human origin.
 
@@ -33,11 +33,11 @@ Passive or "adoptive transfer" of cell-mediated immunity, is conferred by the tr
 
 ## Active Immunity
 
-## **Naturally acquired active immunity**
+### **Naturally acquired active immunity**
 Further information: Immune system
 Naturally acquired active immunity occurs when a person is exposed to a live pathogen and develops a primary immune response, which leads to immunological memory.[9] This type of immunity is "natural" because deliberate exposure does not induce it. Many disorders of immune system function can affect the formation of active immunity such as immunodeficiency (both acquired and congenital forms) and immunosuppression.
 
-## **Artificially acquired active immunity** 
+### **Artificially acquired active immunity** 
 
 It can be induced by a vaccine, a substance that contains antigen. A vaccine stimulates a primary response against the antigen without causing symptoms of the disease.[9] Richard Dunning coined the term vaccination, a colleague of Edward Jenner, and adapted by Louis Pasteur for his pioneering work in vaccination.
 
