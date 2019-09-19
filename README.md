@@ -11,4 +11,4 @@ Innate immunity, also called native immunity, exists by virtue of an organisms c
 
 Adaptive immunity can be sub-divided depending on how the immunity was introduced in 'naturally acquired' through chance contact with a disease-causing agent, whereas 'artificially acquired immunity' develops through [deliberate actions](https://en.wikipedia.org/wiki/Artificial_induction_of_immunity) such as vaccination. Both naturally and artificially acquired immunity can be further subdivided depending on whether the host built up immunity itself by antigen as '_active immunity_' and lasts long-term, sometimes lifelong. '_Passive immunity_' is acquired through transfer (injection or infusion) of antibodies or activated T-cells from an immune host; it is short lived—usually lasting only a few months. The diagram below summarizes these divisions of immunity.
 
-![](images/immunology.png)
+![](images/Immunity.png)
