@@ -9,13 +9,13 @@ Innate immunity, also called native immunity, exists by virtue of an organisms c
 * (a) Non-Specific innate immunity, a degree of resistance to all infections in general. 
 * (b) Specific innate immunity, a resistance to a particular kind of microorganism only. As a result, some races, particular individuals or breeds in agriculture do not suffer from certain infectious diseases.
 
-Adaptive immunity can be sub-divided depending on how the immunity was introduced in 'naturally acquired' through chance contact with a disease-causing agent, whereas 'artificially acquired immunity' develops through [deliberate actions](https://en.wikipedia.org/wiki/Artificial_induction_of_immunity) such as vaccination. Both naturally and artificially acquired immunity can be further subdivided depending on whether the host built up immunity itself by antigen as '_active immunity_' and lasts long-term, sometimes lifelong. '_Passive immunity_' is acquired through transfer (injection or infusion) of antibodies or activated T-cells from an immune host; it is short lived—usually lasting only a few months. The diagram below summarizes these divisions of immunity.
+Adaptive immunity can be sub-divided depending on how the immunity was introduced in 'naturally acquired' through chance contact with a disease-causing agent, whereas 'artificially acquired immunity' develops through [deliberate actions](https://en.wikipedia.org/wiki/Artificial_induction_of_immunity) such as vaccination. Both naturally and artificially acquired immunity can be further subdivided depending on whether the host built up immunity itself by antigen as '_active immunity_' and lasts long-term, sometimes lifelong. '_[Passive immunity][passive]_' is acquired through transfer (injection or infusion) of antibodies or activated T-cells from an immune host; it is short lived—usually lasting only a few months. The diagram below summarizes these divisions of immunity.
 
 ![](Images/Immunity.png)
 
 Adaptive immunity can also be divided by the type of immune mediators involved; [humoral immunity](https://en.wikipedia.org/wiki/Humoral_immunity) is the aspect of immunity that is mediated by secreted antibodies, whereas cell mediated immunity involves T-lymphocytes alone. Humoral immunity is called active when the organism generates its antibodies, and passive when antibodies are transferred between individuals or species. Similarly, [cell-mediated immunity](https://en.wikipedia.org/wiki/Cell-mediated_immunity) is active when the organisms’ T-cells are stimulated, and passive when T cells come from another organism.
 
-## Passive Immunity
+## [Passive Immunity][passive]
 
 ### **Naturally acquired passive immunity**
 
@@ -31,6 +31,7 @@ The artificial induction of passive immunity has been used for over a century to
 
 Passive or "adoptive transfer" of cell-mediated immunity, is conferred by the transfer of "sensitized" or activated T-cells from one individual into another. It is rarely used in humans because it requires histocompatible (matched) donors, which are often difficult to find. In unmatched donors this type of transfer carries severe risks of graft versus host disease. It has, however, been used to treat certain diseases including some types of cancer and immunodeficiency. This type of transfer differs from a bone marrow transplant, in which (undifferentiated) hematopoietic stem cells are transferred.
 
+[passive]: https://en.wikipedia.org/wiki/Passive_immunity
 ## Active Immunity
 
 ### **Naturally acquired active immunity**
