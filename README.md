@@ -48,3 +48,5 @@ There are four types of traditional vaccines:
 * Live, attenuated vaccines are composed of micro-organisms that have been cultivated under conditions which disable their ability to induce disease. These responses are more durable and do not generally require booster shots. Examples include yellow fever, measles, rubella, and mumps.
 * Toxoids are inactivated toxic compounds from micro-organisms in cases where these (rather than the micro-organism itself) cause illness, used prior to an encounter with the toxin of the micro-organism. Examples of toxoid-based vaccines include tetanus and diphtheria.
 * Subunit vaccines are composed of small fragments of disease-causing organisms. A characteristic example is the subunit vaccine against Hepatitis B virus.
+
+Source:[Wikipedia](https://en.wikipedia.org/wiki/Immunity_(medical))
